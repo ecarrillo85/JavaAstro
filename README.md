@@ -3,7 +3,9 @@ This project is being worked on for a Java programming class.
 
 All functions work, with the exception of fileUp function. 
 That function is meant to upload a file from the harddrive 
-to the site.
+to the site. The included jpg file can be used for testing,
+inside the program a link to that same image can also be found, 
+which works with the fileUpLink function.
 
 What the user needs...
 
